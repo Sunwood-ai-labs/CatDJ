@@ -5,12 +5,12 @@
 <h2 align="center">
   ～ Cat DJ ～
 <br>
-  <img alt="PyPI - Version" src="https://img.shields.io/pypi/v/CatDJ">
-<img alt="PyPI - Format" src="https://img.shields.io/pypi/format/CatDJ">
-<img alt="PyPI - Implementation" src="https://img.shields.io/pypi/implementation/CatDJ">
-<img alt="PyPI - Status" src="https://img.shields.io/pypi/status/CatDJ">
-<img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dd/CatDJ">
-<img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dw/CatDJ">
+  <img alt="PyPI - Version" src="https://img.shields.io/pypi/v/cat-dj">
+<img alt="PyPI - Format" src="https://img.shields.io/pypi/format/cat-dj">
+<img alt="PyPI - Implementation" src="https://img.shields.io/pypi/implementation/cat-dj">
+<img alt="PyPI - Status" src="https://img.shields.io/pypi/status/cat-dj">
+<img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dd/cat-dj">
+<img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dw/cat-dj">
 <a href="https://github.com/Sunwood-ai-labs/CatDJ" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=CatDJ&message=Sunwood-ai-labs&color=blue&logo=github"></a>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sunwood-ai-labs/CatDJ">
 <a href="https://github.com/Sunwood-ai-labs/CatDJ"><img alt="forks - Sunwood-ai-labs" src="https://img.shields.io/github/forks/CatDJ/Sunwood-ai-labs?style=social"></a>
