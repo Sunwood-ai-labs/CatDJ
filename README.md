@@ -45,19 +45,10 @@ CatDJは、複数の音楽トラックをDJスタイルで結合し、その音�
 ## 🚀 Getting Started
 このリポジトリを使い始めるには、以下の手順を守ってください。
 
-1. リポジトリをクローンします。
-   ```bash
-   git clone https://github.com/ユーザー名/CatDJ.git
-   ```
-2. 必要な依存関係をインストールします。
-   ```bash
-   cd CatDJ
-   npm install
-   ```
-3. アプリケーションを起動します。
-   ```bash
-   npm start
-   ```
+
+
+cat-dj --input-dir input_tracks --input-video cat_is_playing_dj.mp4
+
 
 ## 📝 Updates
 最新のアップデートや新機能は、[CHANGELOG.md](URLをここに挿入)で確認できます。定期的に更新をチェックして、新機能をお楽しみください。
