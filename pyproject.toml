@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "cat-dj"
+version = "0.1.0"
+description = "DJミックスとビデオループを作成するPythonパッケージ"
+authors = ["Maki <sunwood.ai.labs@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.scripts]
+cat-dj = "cat_dj.cli:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
