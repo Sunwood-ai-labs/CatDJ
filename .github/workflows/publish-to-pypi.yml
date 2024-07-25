@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: 
       name: pypi
-      url: https://pypi.org/p/CatDJ
+      url: https://pypi.org/p/cat-dj
     permissions:
       id-token: write
     steps:
