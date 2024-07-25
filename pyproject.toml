@@ -1,12 +1,14 @@
 [tool.poetry]
 name = "cat-dj"
-version = "0.1.0"
+version = "0.1.1"
 description = "DJミックスとビデオループを作成するPythonパッケージ"
 authors = ["Maki <sunwood.ai.labs@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+pydub = "^0.25.1"
+loguru = "^0.7.2"
 
 [tool.poetry.scripts]
 cat-dj = "cat_dj.cli:main"
