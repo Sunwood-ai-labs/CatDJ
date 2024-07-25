@@ -1,9 +1,8 @@
 <p align="center">
 <img src="https://huggingface.co/datasets/MakiAi/IconAssets/resolve/main/CatDJ.png" width="100%">
 <br>
-<h1 align="center">CatDJ</h1>
 <h2 align="center">
-  ～ Cat DJ ～
+  ～ Mix Tracks, Unleash Fun ～
 <br>
   <img alt="PyPI - Version" src="https://img.shields.io/pypi/v/cat-dj">
 <img alt="PyPI - Format" src="https://img.shields.io/pypi/format/cat-dj">
