@@ -39,36 +39,23 @@
 CatDJは、複数の音楽トラックをDJスタイルで結合し、その音楽に合わせて指定した動画をループ再生するためのパッケージです。このツールを使用することで、オリジナルのパーティー体験を簡単に作成することができます。音楽と映像を組み合わせて、魅力的でエネルギッシュなパフォーマンスを実現しましょう。
 
 ## 🎥 Demo
-デモ動画は[こちら](URLをここに挿入)からご覧いただけます。CatDJの機能や使い方を実際に確認してみてください。
+
+https://github.com/user-attachments/assets/01959d8c-951e-4da4-90b4-801539a08985
+
 
 ## 🚀 Getting Started
 このリポジトリを使い始めるには、以下の手順を守ってください。
 
 
+```bash
+pip install cat-dj
 
-cat-dj --input-dir input_tracks --input-video cat_is_playing_dj.mp4
-
+cat-dj --input-dir input_tracks --input-video cat_is_playing_dj2.mp4 --track-duration 25000
+```
 
 ## 📝 Updates
+
 最新のアップデートや新機能は、[CHANGELOG.md](URLをここに挿入)で確認できます。定期的に更新をチェックして、新機能をお楽しみください。
-
-## 🤝 Contributing
-貢献していただける方は、以下の手順に従ってください。
-
-1. このリポジトリをフォークします。
-2. 新しいブランチを作成します。
-   ```bash
-   git checkout -b feature/MyFeature
-   ```
-3. 変更をコミットします。
-   ```bash
-   git commit -m "Add some feature"
-   ```
-4. フォークしたリポジトリにプッシュします。
-   ```bash
-   git push origin feature/MyFeature
-   ```
-5. プルリクエストを作成します。
 
 ## 📄 License
 このプロジェクトはMITライセンスの下で公開されています。詳細については[LICENSE](URLをここに挿入)を参照してください。
